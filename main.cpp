@@ -46,5 +46,4 @@ int main()
     }
   }
 
-cout << "hey frontera devs" << endl;
 }
